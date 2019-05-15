@@ -1,1 +1,1 @@
-number += 3 // 8
+maKeInt(n)
